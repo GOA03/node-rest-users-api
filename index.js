@@ -26,6 +26,7 @@ app.get('/', (req, res) => {
         message: 'API working!',
         endpoints: {
             users: '/api/users',
+            user: '/api/users/:id',
         }
     });
 });
