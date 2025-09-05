@@ -1,5 +1,5 @@
 {
-  "name": "rest-users-api",
+  "name": "node-rest-users-api",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "API REST profissional para gerenciamento de usuários",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^17.2.2",
